@@ -7,6 +7,11 @@ This SQL guide is written in the context of a cookbook or recipe book if you wil
 I'll be structuring the book in the following way. First, we'll go into the forray of the different types of commands in SQL, then a few exploratory queries that we can use as building blocks to more complex queries and sooner or later we'll be pumping queries fit for holiday meals, full spreads of data. This is a living document and will be recieving update sporadically. If there's a topic you'd like to be covered drop an issue and I will try to incorporate it into the guide.
 
 # Table of Contents
+I'll be structuring the book in the following way. First, we'll go into the forray of the different types of commands in SQL, then a few exploratory queries that we can use as building blocks to more complex queries and sooner or later we'll be pumping queries fit for holiday meals, full spreads of data. This is a living document and will be recieving update sporadically. If there's a topic you'd like to be covered drop an issue and I will try to incorporate it into the guide.
 
+# Table of Contents
+
+- [Categories of SQL Commands](/pages/catsqlcomms.md)
+- [Exploratory Queries](/pages/expque.md)
 - [Categories of SQL Commands](/pages/catsqlcomms.md)
 - [Exploratory Queries](/pages/expque.md)
