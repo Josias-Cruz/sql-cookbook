@@ -1,3 +1,1 @@
 # Exploratory Queries
-
-# Exploratory Queries
