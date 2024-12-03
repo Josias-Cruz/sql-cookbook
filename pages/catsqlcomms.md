@@ -49,3 +49,22 @@ Common commands:
 
 ### Data Query Language (DQL)
 
+Used for:
+- Query database and retrieve specific data
+
+Common commands:
+- SELECT
+- WHERE
+- BETWEEN
+- ORDER BY
+- GROUP BY
+
+### Transaction Control Language (TCL)
+
+Used for:
+- Managing transactions, like committing and rollbacks
+
+Common commands:
+- COMMIT 
+- ROLLBACK 
+- SAVEPOINT
